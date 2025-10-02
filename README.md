@@ -79,5 +79,5 @@ Le projet documente la configuration, les tests réseau/DNS, les difficultés re
 ---
 
 ## 👤 Auteur
-Projet réalisé par **Ton Nom**  
-Étudiant en Cybersécurité & Réseaux  
+Projet réalisé par BEBEY NZEKE Dylan Chriist
+Étudiant en Bachelor 3 en Administration d'Infrastructure Sécurisée à l'ECE de Paris
